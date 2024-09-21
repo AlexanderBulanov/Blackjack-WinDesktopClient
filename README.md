@@ -1,2 +1,4 @@
 # Blackjack-WinDesktopClient
-Blackjack client for Windows PCs
+This repo contains Blackjack client for use on Windows PCs.
+
+Planned features:
